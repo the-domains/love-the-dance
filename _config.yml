@@ -1,6 +1,6 @@
 name: Love The Dance
 favicon: null
-layout_spectrum: 0.97934
+layout_spectrum: 0.75563
 typography_spectrum: 0.29556
 title: Love The Dance
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6fbe51'
     - '#018ad3'
   brandStrength: 0.1875
-  lightness: 1
-  saturation: 0
+  lightness: 0.75
+  saturation: 0.0625
   rhythmicContrast: 0.5
 purpose: []
