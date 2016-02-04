@@ -16,9 +16,9 @@ keywords:
   - cade
   - video
   - '115'
-description: LOOK AT THE TZONE CLAN
-datePublished: '2016-02-04T22:52:08.881Z'
-dateModified: '2016-02-04T22:51:54.934Z'
+description: ''
+datePublished: '2016-02-04T22:52:51.780Z'
+dateModified: '2016-02-04T22:52:47.003Z'
 author:
   - name: louis krieboss
     url: 'https://www.youtube.com/channel/UCXS_yUpVeZ0qZ8xW8wYxZew'
@@ -35,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=Qv7HwBe28dM&feature=applinks'
     type: web
-title: DUB FX - Made (FULLHD).mp4
+title: DUB FX - Made
+sourcePath: _posts/2016-02-04-dub-fx-made-fullhdmp4.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-02-04-dub-fx-made-fullhdmp4.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
