@@ -1,13 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T13:10:03.416Z'
-dateModified: '2016-02-05T13:09:59.295Z'
+datePublished: '2016-02-05T13:16:50.445Z'
+dateModified: '2016-02-05T13:16:42.086Z'
 title: Lorem Ipsum
 author: []
 sourcePath: _posts/2016-02-05-lorem-ipsum.md
@@ -18,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: lorem-ipsum/index.html
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77726b9c-3bbf-491c-8f46-68a64d0d4aaa.jpg)
