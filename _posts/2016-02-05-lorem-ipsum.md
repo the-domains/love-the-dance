@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T12:45:22.905Z'
-dateModified: '2016-02-05T12:45:12.727Z'
+datePublished: '2016-02-05T13:07:36.035Z'
+dateModified: '2016-02-05T13:07:32.875Z'
 title: Lorem Ipsum
 author: []
+sourcePath: _posts/2016-02-05-lorem-ipsum.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-05-lorem-ipsum.md
-published: true
-url: lorem-ipsum/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Lorem Ipsum
