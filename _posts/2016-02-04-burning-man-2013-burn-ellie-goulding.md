@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - burning
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=5pUTKNGpu1s'
 title: Burning Man 2013 - Burn // Ellie Goulding
-datePublished: '2016-02-04T21:39:15.310Z'
-dateModified: '2016-02-04T21:38:36.023Z'
+datePublished: '2016-02-05T13:16:56.446Z'
+dateModified: '2016-02-04T23:21:17.323Z'
 sourcePath: _posts/2016-02-04-burning-man-2013-burn-ellie-goulding.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
