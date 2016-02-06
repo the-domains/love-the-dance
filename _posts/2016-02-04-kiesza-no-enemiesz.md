@@ -17,8 +17,8 @@ keywords:
   - jess
   - http
 description: "Download or Stream Kiesza's Debut Album \"Sound of a Woman\" now: http://smarturl.it/KieszaSoundOfAWoman Spotify http://smarturl.it/sCountdownSOAW Follow Kiesza http://instagram.com/kiesza https://www.facebook.com/Kiesza https://twitter.com/kiesza http://kiesza.com Artwork: Matthew Nicolosi - \"Rise and Fall Sculpture\" Michelle Palotta \"Lolligo\" Ming - Jer Kuo \"Suburban Form\" Robert Lach \"Rhythm Crutch Wheel II\" \"Crutch House\""
-datePublished: '2016-02-04T22:47:50.894Z'
-dateModified: '2016-02-04T22:47:37.482Z'
+datePublished: '2016-02-06T22:04:49.750Z'
+dateModified: '2016-02-06T22:04:28.134Z'
 author:
   - name: KieszaVEVO
     url: 'https://www.youtube.com/user/KieszaVEVO'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=uxY0To9Cb2g&feature=applinks'
     type: web
 title: Kiesza - No Enemiesz
+sourcePath: _posts/2016-02-04-kiesza-no-enemiesz.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-02-04-kiesza-no-enemiesz.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
