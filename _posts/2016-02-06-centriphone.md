@@ -17,8 +17,8 @@ keywords:
   - nicovuignier
   - goats
 description: '100% shot with the iPhone 6. After almost two years of tinkering and tweaking I finally achieved the result I was looking for. No iPhones were harmed during the making of this video (I still use it everyday).'
-datePublished: '2016-02-06T22:01:51.002Z'
-dateModified: '2016-02-06T22:01:25.077Z'
+datePublished: '2016-02-06T22:03:57.355Z'
+dateModified: '2016-02-06T22:03:49.253Z'
 author:
   - name: Nicolas Vuignier
     url: 'https://www.youtube.com/user/nicolascsz'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=aqncOP7OzMg&feature=applinks'
     type: web
 title: Centriphone
+sourcePath: _posts/2016-02-06-centriphone.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-02-06-centriphone.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
